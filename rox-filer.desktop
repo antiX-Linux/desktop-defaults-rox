@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Comment=File Manager
+Exec=rox-filer
+DocPath=
+Icon=/usr/share/icons/antiX/rox-filer.png
+Name=ROX Filer
+Terminal=false
+Categories=Application;System;

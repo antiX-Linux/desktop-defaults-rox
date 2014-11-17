@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pinboard>
+  <backdrop style="Stretched">/usr/share/wallpaper/antiX-galaxy2.jpg</backdrop>
+  <icon x="34" y="34" label="홈 폴더">/usr/share/applications/antix/file-manager.desktop</icon>
+  <icon x="116" y="34" label="브라우저로">/usr/share/applications/antix/web-browser.desktop</icon>
+  <icon x="34" y="112" label="비디오">/usr/share/applications/antix/video-player.desktop</icon>
+  <icon x="116" y="112" label="음악">/usr/share/applications/antix/audio-player.desktop</icon>   
+  <icon x="34" y="186" label="터미널">/usr/share/applications/antix/terminal.desktop</icon>
+  <icon x="34" y="252" label="쓰다">/usr/bin/lowriter</icon> 
+  <icon x="34" y="336" label="설치">/usr/share/applications/antix/antixsources.desktop</icon>
+</pinboard>

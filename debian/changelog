@@ -1,0 +1,43 @@
+desktop-defaults-rox-antix (0.2.2) unstable; urgency=low
+ 
+  * Set rox desktop to use dave's desktop.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 16 Nov 2014 02:55:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.1) unstable; urgency=low
+ 
+  * Correct localisation for antiX-14
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 Jun 2014 14:35:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.0) unstable; urgency=low
+ 
+  * Prepare for antiX-14
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 23 Jun 2014 19:35:00 +0200
+
+
+desktop-defaults-rox-antix (0.1.2) unstable; urgency=low
+ 
+  * New desktop wallpaper.
+  * Set roxterm to open in root rox.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 20 Apr 2014 18:25:00 +0200
+
+
+desktop-defaults-rox-antix (0.1.1) unstable; urgency=low
+ 
+  * Added customisation to root.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 28 Dec 2013 22:52:00 +0200
+
+
+desktop-defaults-rox-antix (0.1.0) unstable; urgency=low
+ 
+  * Better modularisation.
+  * Initial release.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 Dec 2013 14:50:00 +0200
+

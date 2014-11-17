@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pinboard>
+  <backdrop style="Stretched">/usr/share/wallpaper/antiX-galaxy2.jpg</backdrop>
+  <icon x="34" y="34" label="Hjem">/usr/share/applications/antix/file-manager.desktop</icon>
+  <icon x="116" y="34" label="Browser">/usr/share/applications/antix/web-browser.desktop</icon>
+  <icon x="34" y="112" label="Video">/usr/share/applications/antix/video-player.desktop</icon>
+  <icon x="116" y="112" label="Musik">/usr/share/applications/antix/audio-player.desktop</icon>    
+  <icon x="34" y="186" label="Terminal">/usr/share/applications/antix/terminal.desktop</icon>
+  <icon x="34" y="252" label="Skriv">/usr/bin/lowriter</icon> 
+  <icon x="34" y="336" label="Installér">/usr/share/applications/antix/antixsources.desktop</icon>
+</pinboard>

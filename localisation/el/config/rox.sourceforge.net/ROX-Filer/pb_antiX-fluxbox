@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pinboard>
+  <backdrop style="Stretched">/usr/share/wallpaper/antiX-galaxy2.jpg</backdrop>
+  <icon x="34" y="34" label="Αρχεία">/usr/share/applications/antix/file-manager.desktop</icon>
+  <icon x="116" y="34" label="Περιήγηση">/usr/share/applications/antix/web-browser.desktop</icon>
+  <icon x="34" y="112" label="Βίντεο">/usr/share/applications/antix/video-player.desktop</icon>
+  <icon x="116" y="112" label="Μουσική">/usr/share/applications/antix/audio-player.desktop</icon>   
+  <icon x="34" y="186" label="Τερματικό">/usr/share/applications/antix/terminal.desktop</icon>
+  <icon x="34" y="252" label="Γράφω">/usr/bin/lowriter</icon> 
+  <icon x="34" y="336" label="Εγκατάσταση">/usr/share/applications/antix/antixsources.desktop</icon>
+</pinboard>
