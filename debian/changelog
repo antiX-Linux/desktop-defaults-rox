@@ -1,3 +1,10 @@
+desktop-defaults-rox-antix (0.2.3) unstable; urgency=low
+ 
+  * Changed icon theme.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 26 Dec 2014 23:47:00 +0200
+
+
 desktop-defaults-rox-antix (0.2.2) unstable; urgency=low
  
   * Set rox desktop to use dave's desktop.

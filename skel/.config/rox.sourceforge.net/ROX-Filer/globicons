@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <special-files>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Extract">
-    <icon>/usr/share/icons/gTangish-2.0a1/48x48/mimetypes/zip.png</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/zip.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/New Window as root">
     <icon>/usr/share/icons/antiX/rox-filer.png</icon>
@@ -10,19 +10,19 @@
     <icon>/usr/share/pixmaps/cryptkeeper.png</icon>
   </rule>
   <rule match="/usr/bin/gnome-mplayer">
-    <icon>/usr/share/icons/BRIT-ICONS/scalable/mimetypes/video-x-generic.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/video-x-generic.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Create">
-    <icon>/usr/share/icons/gTangish-2.0a1/48x48/apps/file-roller.png</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Open With Menu">
     <icon>/usr/share/pixmaps/open-with-menu.png</icon>
   </rule>
   <rule match="/usr/local/bin/antiX-FileManager.sh">
-    <icon>/usr/share/icons/BRIT-ICONS/scalable/places/folder.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/places/48/folder.png</icon>
   </rule>
   <rule match="/usr/bin/xmms">
-    <icon>/usr/share/icons/BRIT-ICONS/scalable/mimetypes/audio-x-generic.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/audio-x-generic.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-shellscript/Edit as root">
     <icon>/usr/share/pixmaps/leafpad.png</icon>
@@ -31,12 +31,12 @@
     <icon>/usr/share/pixmaps/leafpad.png</icon>
   </rule>
   <rule match="/usr/bin/iceweasel">
-    <icon>/usr/share/icons/BRIT-ICONS/scalable/apps/web-browser.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/iceweasel.png</icon>
   </rule>
   <rule match="/usr/bin/roxterm">
-    <icon>/usr/share/icons/BRIT-ICONS/scalable/apps/utilities-terminal.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/utilities-terminal.png</icon>
   </rule>
   <rule match="/usr/bin/lowriter">
-    <icon>/usr/share/icons/SimplyGrey/scalable/apps/writer.svg</icon>
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/libreoffice-writer.png</icon>
   </rule>
 </special-files>

@@ -21,7 +21,7 @@
   <Option name="toolbar_min_width">1</Option>
   <Option name="panel_avoid">1</Option>
   <Option name="dnd_drag_to_icons">1</Option>
-  <Option name="display_cdev_colour">#2c24e3f02932</Option>
+  <Option name="display_cdev_colour">#cc3bf179cba2</Option>
   <Option name="display_adir_colour">#d7b3e397d7b3</Option>
   <Option name="menu_quick">1</Option>
   <Option name="toolbar_disable">gtk-close</Option>
@@ -55,13 +55,13 @@
   <Option name="vertical_order_small">0</Option>
   <Option name="display_sort_by">0</Option>
   <Option name="action_copy">1</Option>
-  <Option name="dnd_uri_handler">roxterm -e wget $1</Option>
+  <Option name="dnd_uri_handler">urxvt -e wget $1</Option>
   <Option name="dnd_spring_delay">400</Option>
   <Option name="menu_iconsize">1</Option>
   <Option name="display_bdev_colour">#c40375ca75ca</Option>
   <Option name="action_move">1</Option>
   <Option name="pinboard_bottom_margin">0</Option>
-  <Option name="menu_xterm">roxterm</Option>
+  <Option name="menu_xterm">urxvt</Option>
   <Option name="display_show_hidden">0</Option>
   <Option name="dnd_middle_menu">1</Option>
   <Option name="vertical_order_large">0</Option>
@@ -76,7 +76,7 @@
   <Option name="pinboard_grid_step">2</Option>
   <Option name="session_panel_or_pin">2</Option>
   <Option name="display_door_colour">#ff00ff</Option>
-  <Option name="icon_theme">BRIT-ICONS</Option>
+  <Option name="icon_theme">Faenza-Cupertino-mini</Option>
   <Option name="filer_beep_multi">1</Option>
   <Option name="pinboard_shadow_labels">1</Option>
   <Option name="label_font">Sans 10</Option>
@@ -87,7 +87,7 @@
   <Option name="pinboard_left_margin">0</Option>
   <Option name="panel_xinerama">0</Option>
   <Option name="action_force">0</Option>
-  <Option name="display_dir_colour">#a5a8a5a8d7b3</Option>
+  <Option name="display_dir_colour">#ce89e324e2e4</Option>
   <Option name="display_small_width">250</Option>
   <Option name="xattr_ignore">0</Option>
   <Option name="action_recurse">0</Option>
