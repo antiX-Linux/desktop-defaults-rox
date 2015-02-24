@@ -2,10 +2,6 @@
 <pinboard>
   <backdrop style="Stretched">/usr/share/wallpaper/antiX-galaxy2.jpg</backdrop>
   <icon x="34" y="34" label="ホームフォルダ">/usr/share/applications/antix/file-manager.desktop</icon>
-  <icon x="116" y="34" label="ブラウザ">/usr/share/applications/antix/web-browser.desktop</icon>
-  <icon x="34" y="112" label="ビデオ">/usr/share/applications/antix/video-player.desktop</icon>
-  <icon x="116" y="112" label="音楽">/usr/share/applications/antix/audio-player.desktop</icon>  
-  <icon x="34" y="186" label="ターミナル">/usr/share/applications/antix/terminal.desktop</icon>
-  <icon x="34" y="252" label="書き込む">/usr/bin/lowriter</icon> 
+  <icon x="34" y="112" label="ヘルプ">/usr/share/applications/antix/antiX-docs.desktop</icon>
   <icon x="34" y="336" label="インストール">/usr/share/applications/antix/antixsources.desktop</icon>
 </pinboard>

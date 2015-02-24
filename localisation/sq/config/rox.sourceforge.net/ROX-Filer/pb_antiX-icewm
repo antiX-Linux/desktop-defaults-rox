@@ -2,10 +2,6 @@
 <pinboard>
   <backdrop style="Stretched">/usr/share/wallpaper/antiX-galaxy2.jpg</backdrop>
   <icon x="34" y="34" label="Shtëpia">/usr/share/applications/antix/file-manager.desktop</icon>
-  <icon x="116" y="34" label="Shfletues interneti">/usr/share/applications/antix/web-browser.desktop</icon>
-  <icon x="34" y="112" label="Video">/usr/share/applications/antix/video-player.desktop</icon>
-  <icon x="116" y="112" label="Muzikë">/usr/share/applications/antix/audio-player.desktop</icon> 
-  <icon x="34" y="186" label="Terminali">/usr/share/applications/antix/terminal.desktop</icon>
-  <icon x="34" y="252" label="Shkruaj">/usr/bin/lowriter</icon> 
+  <icon x="34" y="112" label="Ndihmë">/usr/share/applications/antix/antiX-docs.desktop</icon>
   <icon x="34" y="336" label="Instalo">/usr/share/applications/antix/antixsources.desktop</icon>
 </pinboard>

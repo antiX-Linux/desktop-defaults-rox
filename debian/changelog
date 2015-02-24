@@ -1,3 +1,17 @@
+desktop-defaults-rox-antix (0.2.5) unstable; urgency=low
+ 
+  * Some edits to mime-types.
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 17 Feb 2015 17:26:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.4) unstable; urgency=low
+ 
+  * Removed some icons from rox desktop.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 12 Jan 2015 00:41:00 +0200
+
+
 desktop-defaults-rox-antix (0.2.3) unstable; urgency=low
  
   * Changed icon theme.
