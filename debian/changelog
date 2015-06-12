@@ -1,3 +1,38 @@
+desktop-defaults-rox-antix (0.3.1) unstable; urgency=low
+ 
+  * Renamed cryptkeeper.png to crypt.png.
+ 
+ -- anticapitalista <antiX@operamail.com>  Fri, 12 Jun 2015 14:56:00 +0200
+
+
+desktop-defaults-rox-antix (0.3.0) unstable; urgency=low
+ 
+  * Cptions files for dark and light.
+
+ -- anticapitalista <antiX@operamail.com>  Tues, 28 Apr 2015 20:42:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.8) unstable; urgency=low
+ 
+  * Changed default wallpaper.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 08 Apr 2015 18:19:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.7) unstable; urgency=low
+ 
+  * Further changes to colours.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 Mar 2015 21:04:00 +0200
+
+
+desktop-defaults-rox-antix (0.2.6) unstable; urgency=low
+ 
+  * Changes folder test colour to better match theme
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 25 Mar 2015 14:26:00 +0200
+
+
 desktop-defaults-rox-antix (0.2.5) unstable; urgency=low
  
   * Some edits to mime-types.

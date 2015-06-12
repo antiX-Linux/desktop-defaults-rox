@@ -5,5 +5,5 @@ changelog.gz       /usr/share/doc/desktop-defaults-rox-antix
 copyright          /usr/share/doc/desktop-defaults-rox-antix 
 localisation/*     /usr/share/antiX/localisation
 rox-filer.desktop  /usr/share/applications/antix
-cryptkeeper.png    /usr/share/pixmaps
+crypt.png          /usr/share/pixmaps
 open-with-menu.png /usr/share/pixmaps
