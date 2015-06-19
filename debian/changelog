@@ -1,3 +1,10 @@
+desktop-defaults-rox-antix (0.3.2) unstable; urgency=low
+ 
+  * Open as root changed from ktsuss to gksu.
+ 
+ -- anticapitalista <antiX@operamail.com>  Sat, 13 Jun 2015 11:29:00 +0200
+
+
 desktop-defaults-rox-antix (0.3.1) unstable; urgency=low
  
   * Renamed cryptkeeper.png to crypt.png.

@@ -9,7 +9,7 @@
 DIR=$(dirname "$@")
 
 # Specify the preferred way to run as root 
-ASROOT=ktsuss
+ASROOT=gksu
 
 # Start ROX-Filer as root at the specified location
 $ASROOT rox -d "$DIR"
