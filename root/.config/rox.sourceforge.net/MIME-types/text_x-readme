@@ -1,2 +1,2 @@
 #! /bin/sh
-exec leafpad "$@"
+exec desktop-defaults-run -te "$@"

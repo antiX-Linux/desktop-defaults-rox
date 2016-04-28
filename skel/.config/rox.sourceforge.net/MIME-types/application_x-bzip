@@ -1,2 +1,2 @@
 #! /bin/sh
-exec xarchiver "$@"
+exec file-roller "$@"

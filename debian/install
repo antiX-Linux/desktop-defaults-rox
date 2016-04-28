@@ -1,9 +1,7 @@
-bin/*              /usr/local/bin  
-skel/.[a-zA-Z]*    /etc/skel
-root/.[a-zA-Z]*    /root
-changelog.gz       /usr/share/doc/desktop-defaults-rox-antix 
-copyright          /usr/share/doc/desktop-defaults-rox-antix 
-localisation/*     /usr/share/antiX/localisation
-rox-filer.desktop  /usr/share/applications/antix
-crypt.png          /usr/share/pixmaps
-open-with-menu.png /usr/share/pixmaps
+bin/*              	usr/local/bin  
+skel/.[a-zA-Z]*    	etc/skel
+root/.[a-zA-Z]*    	root
+localisation/*     	usr/share/antiX/localisation
+rox-filer.desktop  	usr/share/applications/antix
+crypt.png          	usr/share/pixmaps
+open-with-menu.png	usr/share/pixmaps

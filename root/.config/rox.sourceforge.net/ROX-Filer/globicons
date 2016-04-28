@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<special-files>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.inode_directory/Archive-Create">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-compressed-tar/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_octet-stream/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
+  </rule>
+  <rule match="/usr/local/bin/antiX-FileManager.sh">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/places/48/folder.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Extract">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/zip.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.inode_directory/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-compressed-tar/Archive-Extract">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/application-x-zip.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Create">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
+  </rule>
+  <rule match="/usr/bin/iceweasel">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/iceweasel.png</icon>
+  </rule>
+  <rule match="/usr/bin/roxterm">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/utilities-terminal.png</icon>
+  </rule>
+  <rule match="/usr/bin/lowriter">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/libreoffice-writer.png</icon>
+  </rule>
+</special-files>

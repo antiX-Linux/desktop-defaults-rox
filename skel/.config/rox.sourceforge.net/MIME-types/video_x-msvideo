@@ -1,2 +1,1 @@
-#! /bin/sh
-exec mplayer "$@"
+/home/demo/.config/rox.sourceforge.net/SendTo/.video_x-msvideo/Open with mpv

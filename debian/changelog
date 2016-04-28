@@ -1,3 +1,70 @@
+desktop-defaults-rox-antix (0.3.10) unstable; urgency=medium
+
+  * Change mime type for pdf to evince 
+
+ -- anticapitalista <antix@operamail.com>  Tue, 19 Apr 2016 14:36:15 +0300
+
+desktop-defaults-rox-antix (0.3.9) unstable; urgency=medium
+
+  * added more video mime-types
+  * options.dark to use BRIT-ICONS theme
+
+ -- anticapitalista <antix@operamail.com>  Fri, 15 Apr 2016 18:04:55 +0300
+
+desktop-defaults-rox-antix (0.3.8) unstable; urgency=medium
+
+  * New custom actions
+
+ -- anticapitalista <antix@operamail.com>  Sun, 03 Apr 2016 13:42:49 +0300
+
+desktop-defaults-rox-antix (0.3.7) unstable; urgency=medium
+
+  * Changed default rox-pinboard image to new version for all localised files 
+
+ -- anticapitalista <antix@operamail.com>  Wed, 30 Mar 2016 21:39:43 +0300
+
+desktop-defaults-rox-antix (0.3.7+nmu1) unstable; urgency=medium
+
+  * Use custom roxterm in root as well as user 
+
+ -- anticapitalista <antix@operamail.com>  Sat, 26 Mar 2016 00:40:38 +0200
+
+desktop-defaults-rox-antix (0.3.7) unstable; urgency=low
+ 
+  * New default desktop image for antiX-16
+ 
+ -- anticapitalista <antiX@operamail.com>  Thu, 10 Mar 2016 17:25:00 +0200
+
+
+desktop-defaults-rox-antix (0.3.6) unstable; urgency=low
+ 
+  * Added encrypt/decrypt custom menu options
+  * Added extract and compress custom menu options for root user
+ 
+ -- anticapitalista <antiX@operamail.com>  Sun, 28 Feb 2016 14:44:00 +0200
+
+
+desktop-defaults-rox-antix (0.3.5) unstable; urgency=low
+ 
+  * Added extract and compress custom menu options
+ 
+ -- anticapitalista <antiX@operamail.com>  Sat, 16 Jan 2016 20:03:00 +0200
+
+
+desktop-defaults-rox-antix (0.3.4) unstable; urgency=low
+ 
+  * Fix broken links so custom right-click rox options work eg edit as root
+ 
+ -- anticapitalista <antiX@operamail.com>  Sat, 16 Jan 2016 15:50:00 +0200
+
+
+desktop-defaults-rox-antix (0.3.3) unstable; urgency=low
+ 
+  * Roxterm - added scroll_on_keystroke=1 to Default file
+ 
+ -- anticapitalista <antiX@operamail.com>  Fri, 15 Jan 2016 17:57:00 +0200
+
+
 desktop-defaults-rox-antix (0.3.2) unstable; urgency=low
  
   * Open as root changed from ktsuss to gksu.

@@ -1,37 +1,52 @@
 <?xml version="1.0"?>
 <special-files>
-  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Extract">
-    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/zip.png</icon>
-  </rule>
-  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/New Window as root">
-    <icon>/usr/share/icons/antiX/rox-filer.png</icon>
-  </rule>
-  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Encrypt-Decrypt">
-    <icon>/usr/share/pixmaps/cryptkeeper.png</icon>
-  </rule>
-  <rule match="/usr/bin/gnome-mplayer">
-    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/video-x-generic.png</icon>
-  </rule>
-  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Create">
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.inode_directory/Archive-Create">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
   </rule>
-  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Open With Menu">
-    <icon>/usr/share/pixmaps/open-with-menu.png</icon>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
   </rule>
-  <rule match="/usr/local/bin/antiX-FileManager.sh">
-    <icon>/usr/share/icons/Faenza-Cupertino-mini/places/48/folder.png</icon>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-compressed-tar/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
   </rule>
-  <rule match="/usr/bin/xmms">
-    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/audio-x-generic.png</icon>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_octet-stream/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-shellscript/Edit as root">
     <icon>/usr/share/pixmaps/leafpad.png</icon>
   </rule>
+  <rule match="/usr/bin/gnome-mplayer">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/video-x-generic.png</icon>
+  </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.text_plain/Edit as root">
     <icon>/usr/share/pixmaps/leafpad.png</icon>
   </rule>
+  <rule match="/usr/local/bin/antiX-FileManager.sh">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/places/48/folder.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/New Window as root">
+    <icon>/usr/share/icons/antiX/rox-filer.png</icon>
+  </rule>
+  <rule match="/usr/bin/xmms">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/audio-x-generic.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Extract">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/zip.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.inode_directory/Encrypt-Decrypt">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/encrypted.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-compressed-tar/Archive-Extract">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/application-x-zip.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Create">
+    <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
+  </rule>
   <rule match="/usr/bin/iceweasel">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/iceweasel.png</icon>
+  </rule>
+  <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Open With Menu">
+    <icon>/usr/share/pixmaps/open-with-menu.png</icon>
   </rule>
   <rule match="/usr/bin/roxterm">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/utilities-terminal.png</icon>
