@@ -72,7 +72,7 @@
   <Option name="filer_size_limit">75</Option>
   <Option name="xattr_show">1</Option>
   <Option name="toolbar_type">1</Option>
-  <Option name="action_umount_command">pumount</Option>
+  <Option name="action_umount_command">pumount "$1"</Option>
   <Option name="pinboard_grid_step">2</Option>
   <Option name="session_panel_or_pin">2</Option>
   <Option name="display_door_colour">#ff00ff</Option>
