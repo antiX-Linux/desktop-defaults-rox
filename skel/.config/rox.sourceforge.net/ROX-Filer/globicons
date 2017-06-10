@@ -15,7 +15,7 @@
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.application_x-shellscript/Edit as root">
     <icon>/usr/share/pixmaps/leafpad.png</icon>
   </rule>
-  <rule match="/usr/bin/gnome-mplayer">
+  <rule match="/usr/bin/gnome-mpv">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/mimetypes/48/video-x-generic.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/.text_plain/Edit as root">
@@ -42,13 +42,13 @@
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Archive-Create">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/file-roller.png</icon>
   </rule>
-  <rule match="/usr/bin/iceweasel">
+  <rule match="/usr/bin/firefox">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/iceweasel.png</icon>
   </rule>
   <rule match="/home/demo/.config/rox.sourceforge.net/SendTo/Open With Menu">
     <icon>/usr/share/pixmaps/open-with-menu.png</icon>
   </rule>
-  <rule match="/usr/bin/roxterm">
+  <rule match="/usr/bin/lxterminal">
     <icon>/usr/share/icons/Faenza-Cupertino-mini/apps/48/utilities-terminal.png</icon>
   </rule>
   <rule match="/usr/bin/lowriter">

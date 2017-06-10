@@ -70,7 +70,7 @@
   <Option name="panel_is_dock">0</Option>
   <Option name="display_file_colour">#8437a9fc7221</Option>
   <Option name="filer_size_limit">75</Option>
-  <Option name="xattr_show">1</Option>
+  <Option name="xattr_show">0</Option>
   <Option name="toolbar_type">1</Option>
   <Option name="action_umount_command">pumount "$1"</Option>
   <Option name="pinboard_grid_step">2</Option>

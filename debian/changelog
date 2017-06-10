@@ -1,3 +1,39 @@
+desktop-defaults-rox-antix (0.4.3) unstable; urgency=medium
+
+  * xattr_show set to not show
+
+ -- anticapitalista <antix@operamail.com>  Wed, 12 Apr 2017 19:36:58 +0300
+
+desktop-defaults-rox-antix (0.4.2) unstable; urgency=medium
+
+  * Default wallpaper set to metro-station
+
+ -- anticapitalista <antix@operamail.com>  Tue, 11 Apr 2017 18:26:35 +0300
+
+desktop-defaults-rox-antix (0.4.1) unstable; urgency=medium
+
+  * Fixed faulty gnome-mpv SendTo link
+
+ -- anticapitalista <antix@operamail.com>  Sat, 25 Mar 2017 23:59:23 +0200
+
+desktop-defaults-rox-antix (0.4.0) unstable; urgency=medium
+
+  * New default wallpaper
+
+ -- anticapitalista <antix@operamail.com>  Sat, 18 Mar 2017 16:17:58 +0200
+
+desktop-defaults-rox-antix (0.3.14) unstable; urgency=medium
+
+  * Improved encryption
+
+ -- anticapitalista <antix@operamail.com>  Thu, 09 Mar 2017 17:21:13 +0200
+
+desktop-defaults-rox-antix (0.3.13) unstable; urgency=medium
+
+  * Removed roxterm config files
+
+ -- anticapitalista <antix@operamail.com>  Tue, 07 Feb 2017 19:11:46 +0200
+
 desktop-defaults-rox-antix (0.3.12) unstable; urgency=medium
 
   * Alterations to mimetypes for generic video to open using desktop-defaults-video

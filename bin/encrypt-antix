@@ -6,7 +6,7 @@
 #GPG_ID=foo@bar.com
 
 # Change this to "gpg" if you are so inclined.
-EXTENSION="pgp"
+EXTENSION="gpg"
 
 #### Probably won't need to change these....
 FILENAME=`basename $1` 
@@ -22,13 +22,13 @@ if [ $FILENAME != $WITHOUT_GPG ] ||
    [ $FILENAME != $WITHOUT_PGP ]; then
 	# If it's got the right extension, decrypt it.
 	DECRYPTED_OUT=`basename $@ | sed "s/\.[^.]*$//"`
-	exec x-terminal-emulator -e gpg  -o $DECRYPTED_OUT --decrypt $@
+	exec gpg -o $DECRYPTED_OUT --decrypt $@
 else 
-	# No recognized extension - encrypt this puppy if GPG_ID exists
+	# No recognized extension - tar then encrypt if GPG_ID exists
 	GPG_OUT=${FILENAME}.${EXTENSION}
         if [ $GPG_ID ]; then
 	exec gpg  -a -r $GPG_ID -o $GPG_OUT --encrypt $@
         else
-        exec x-terminal-emulator -e gpg -o $GPG_OUT --symmetric $@
+        exec gpg -o $GPG_OUT --symmetric $@
         fi
 fi
