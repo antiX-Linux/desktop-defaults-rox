@@ -1,3 +1,10 @@
+desktop-defaults-rox-antix (0.4.4) unstable; urgency=medium
+
+  * Fixed broken mime types
+  * Added some new mime types
+
+ -- anticapitalista <antix@operamail.com>  Thu, 10 Aug 2017 19:17:40 +0100
+
 desktop-defaults-rox-antix (0.4.3) unstable; urgency=medium
 
   * xattr_show set to not show
