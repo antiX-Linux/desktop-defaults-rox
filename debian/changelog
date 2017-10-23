@@ -1,3 +1,9 @@
+desktop-defaults-rox-antix (0.4.5) unstable; urgency=medium
+
+  * Included rox-toggle.desktop file
+
+ -- anticapitalista <antix@operamail.com>  Sun, 08 Oct 2017 16:31:52 +0300
+
 desktop-defaults-rox-antix (0.4.4) unstable; urgency=medium
 
   * Fixed broken mime types

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Rox Panel Toggle
+Icon=gnome-panel
+Categories=Utility;
+Exec=paneltoggle.sh
+Terminal=false
